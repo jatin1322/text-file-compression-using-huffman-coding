@@ -44,20 +44,6 @@ struct HuffmannTreenode *extractMin(struct HuffmannTree *minHeap)
 
     return temp; // Returning the min value node
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Function to insert a new Huffmann tree node to our huffmann tree
 void INSERT(struct HuffmannTree *minHeap, struct HuffmannTreenode *minHeapNode)
 {
@@ -73,12 +59,6 @@ void INSERT(struct HuffmannTree *minHeap, struct HuffmannTreenode *minHeapNode)
 
     minHeap->array[i] = minHeapNode; // Assigning the new node to its proper place in the array/heap
 }
-
-
-
-
-
-
 
 
 // Function to build the Huffmann Tree
