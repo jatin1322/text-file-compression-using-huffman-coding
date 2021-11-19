@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAXIMUM_TREE_HT 100
+#define MAXIMUM_TREE_HT 100 
+
+
 struct LL_node // Designing A Linked List to store the formed encoded bits of each corresponding character
 {
     int data;             // Single bit either 0 or 1
