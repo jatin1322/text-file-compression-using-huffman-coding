@@ -32,7 +32,7 @@ void minHeapify(struct HuffmannTree *minHeap, int index)
 
 
 
-struct HuffmannTreenode *extractMin(struct HuffmannTree *minHeap)
+struct HuffmannTreenode  *extractMin(struct HuffmannTree *minHeap)
 {
 
     struct HuffmannTreenode *temp = minHeap->array[0];
