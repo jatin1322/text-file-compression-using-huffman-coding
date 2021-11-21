@@ -1,7 +1,7 @@
 # CS201-Project Group No. 26
 # Text file compression using Huffman encoding<br />
 ## **Teaching Assistant**: Sravanthi Chede<br /><br />
-### Basic Algorithm:<br />
+### Huffman Encoding:<br />
 Huffman encoding is an algorithm used to compress the size of data without loosing it by assigning different code to each characters using Huffman tree . It is a statistical compression method that converts charactersinto variable length bit strings and produces a prefix code .Most frequently occurring characters are convertedto shortest bit strings and least frequent the longest.<br />
 ## Working Of Program<br />
 ### Program will first ask you to enter name of file which you want to compress: <br />
