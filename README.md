@@ -9,4 +9,10 @@ OUTPUT.TXT  will be generated.<br />
 5)DECODED.TXT will be generated<br />
 6)Press 2 to get summary about compression<br />
 Program will tell you by how much percentage your file get compressed.<br />
-The git repo is also attached with some random text files for reference such as "a.txt" ,"b.txt" , "t.txt".
+The git repo is also attached with some random text files for reference such as "a.txt" ,"b.txt" , "t.txt".<br /><br />
+**Group Members**
+| Name            | Entry Number |
+| --------------- | ------------ |
+| Tanuj Kumar | 2020CSB1134  |
+| Jatin | 2020CSB1070  |
+| Abhay Shukralia | 2020CSB1061 |
