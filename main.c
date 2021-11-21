@@ -11,7 +11,7 @@ struct LL_node // Designing A Linked List to store the formed encoded bits of ea
 struct LL_node *insert(struct LL_node *head, int x)
 {
     struct LL_node *newnode = (struct LL_node *)malloc(sizeof(struct LL_node)); // dynamically allocating a newnode
-    newnode->data = x;                                                          // Updating its data value  to x
+    newnode->data = x;                                                          // Updating its data value to x
     newnode->next = NULL;                                                       // And updating its next pointer to NULL
     // If head pointer is NULL then simply eqaute head to newnode and return the head
     if (head == NULL)
