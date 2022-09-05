@@ -24,6 +24,6 @@ This will provide the compression percentage, reduction of number of bits etc <b
 **Group Members**
 | Name            | Entry Number |
 | --------------- | ------------ |
-| Tanuj Kumar | 2020CSB1134  |
-| Jatin | 2020CSB1070  |
-| Abhay Shukralia | 2020CSB1061 |
+| Jatin           |  2020CSB1090 |
+| Tanuj Kumar     |  2020CSB1134 |
+| Abhay Shukralia |  2020CSB1061 |
